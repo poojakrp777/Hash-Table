@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\DSHashtable\DSHashtable\bin\Debug\DSHashtable.exe.config
+C:\Users\Dell\source\repos\DSHashtable\DSHashtable\bin\Debug\DSHashtable.exe
+C:\Users\Dell\source\repos\DSHashtable\DSHashtable\bin\Debug\DSHashtable.pdb
+C:\Users\Dell\source\repos\DSHashtable\DSHashtable\obj\Debug\DSHashtable.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DSHashtable\DSHashtable\obj\Debug\DSHashtable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\DSHashtable\DSHashtable\obj\Debug\DSHashtable.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DSHashtable\DSHashtable\obj\Debug\DSHashtable.exe
+C:\Users\Dell\source\repos\DSHashtable\DSHashtable\obj\Debug\DSHashtable.pdb
